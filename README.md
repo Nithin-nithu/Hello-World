@@ -2,3 +2,6 @@
 ifconfig
 ps -ef
 netstat
+ls
+whoami
+last
