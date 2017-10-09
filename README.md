@@ -5,3 +5,4 @@ netstat
 ls
 whoami
 last
+uptime
